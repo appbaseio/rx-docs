@@ -1,0 +1,67 @@
+- title: Components
+  items:
+    - id: banner
+      title: Banner
+      href: /base-components/banner.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/banner.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/banner.html#props
+          forceInternal: true
+    - id: button
+      title: Button
+      href: /base-components/button.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/button.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/button.html#props
+          forceInternal: true
+    - id: navbar
+      title: Navbar
+      href: /base-components/navbar.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/navbar.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/navbar.html#props
+          forceInternal: true
+    - id: section-header
+      title: SectionHeader
+      href: /base-components/section-header.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/section-header.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/section-header.html#props
+          forceInternal: true
+    - id: tabs
+      title: Tabs
+      href: /base-components/tabs.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/tabs.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/tabs.html#props
+          forceInternal: true
