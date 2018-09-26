@@ -4,7 +4,7 @@ title: "Banner"
 layout: docs
 sectionid: docs
 permalink: base-components/banner.html
-next: base-components/button.html
+next: button.html
 nextTitle: "Button"
 redirect_from:
     - 'docs'
@@ -15,7 +15,7 @@ redirect_from:
     - 'base-components/banner'
 ---
 
-An Image Banner.
+![Image to be displayed](https://i.imgur.com/5tVA9Yt.png)
 
 ## Usage
 

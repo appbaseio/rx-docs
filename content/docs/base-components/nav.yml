@@ -65,3 +65,81 @@
           title: Props
           href: /base-components/tabs.html#props
           forceInternal: true
+    - id: options-selector
+      title: Options Selector
+      href: /base-components/options-selector.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/options-selector.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/options-selector.html#props
+          forceInternal: true
+    - id: product-details
+      title: Product Deatils
+      href: /base-components/product-details.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/product-details.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/product-details.html#props
+          forceInternal: true
+    - id: product-image
+      title: Product Image
+      href: /base-components/product-image.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/product-image.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/product-image.html#props
+          forceInternal: true
+    - id: flex
+      title: Flex
+      href: /base-components/flex.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/flex.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/flex.html#props
+          forceInternal: true
+    - id: text-button
+      title: TextButton
+      href: /base-components/text-button.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/text-button.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/text-button.html#props
+          forceInternal: true
+    - id: description-row
+      title: Description Row
+      href: /base-components/description-row.html
+      forceInternal: true
+      subitems:
+        - id: usage
+          title: Usage
+          href: /base-components/description-row.html#usage
+          forceInternal: true
+        - id: props
+          title: Props
+          href: /base-components/description-row.html#props
+          forceInternal: true

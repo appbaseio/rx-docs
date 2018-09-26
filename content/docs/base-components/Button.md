@@ -4,9 +4,9 @@ title: "Banner"
 layout: docs
 sectionid: docs
 permalink: base-components/button.html
-next: base-components/navbar.html
+next: navbar.html
 nextTitle: "Navbar"
-prev: base-components/banner.html
+prev: banner.html
 prevTitle: "Banner"
 redirect_from:
     - 'basic-components/button.html'

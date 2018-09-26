@@ -4,10 +4,10 @@ title: "Navbar"
 layout: docs
 sectionid: docs
 permalink: base-components/navbar.html
-next: base-components/section-header.html
+next: section-header.html
 nextTitle: "SectionHeader"
-prev: base-components/banner.html
-prevTitle: "Banner"
+prev: button.html
+prevTitle: "Button"
 redirect_from:
     - 'basic-components/navbar.html'
     - 'base-components/navbar'
