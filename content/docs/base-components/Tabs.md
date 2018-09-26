@@ -4,8 +4,10 @@ title: "Tabs"
 layout: docs
 sectionid: docs
 permalink: base-components/tabs.html
-prev: base-components/section-header.html
+prev: section-header.html
 prevTitle: "SectionHeader"
+next: options-selector.html
+nextTitle: "Options Selector"
 redirect_from:
     - 'basic-components/tabs.html'
     - 'base-components/tabs'

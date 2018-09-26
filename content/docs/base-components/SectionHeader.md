@@ -4,9 +4,9 @@ title: "SectionHeader"
 layout: docs
 sectionid: docs
 permalink: base-components/section-header.html
-next: base-components/tabs.html
+next: tabs.html
 nextTitle: "Tabs"
-prev: base-components/navbar.html
+prev: navbar.html
 prevTitle: "Navbar"
 redirect_from:
     - 'basic-components/section-header.html'
